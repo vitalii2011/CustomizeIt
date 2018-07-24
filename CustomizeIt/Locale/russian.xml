@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="ru" ReadableName="Russian" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translations>
+    <Translation ID="CUSTOMIZE-IT-MODDESCRIPTION" String="Изменение различных значений в зданиях, таких как накопление мусора, потребление энергии и многое другое!" />
+    <Translation ID="CUSTOMIZE-IT-m_constructionCost" String="Стоимость строительства" />
+    <Translation ID="CUSTOMIZE-IT-m_maintenanceCost" String="Стоимость техобслуживания" />
+    <Translation ID="CUSTOMIZE-IT-m_electricityConsumption" String="Потребление электроэнергии" />
+    <Translation ID="CUSTOMIZE-IT-m_waterConsumption" String="Потребление воды" />
+    <Translation ID="CUSTOMIZE-IT-m_sewageAccumulation" String="Накопление сточных вод" />
+    <Translation ID="CUSTOMIZE-IT-m_garbageAccumulation" String="Накопление мусора" />
+    <Translation ID="CUSTOMIZE-IT-m_fireHazard" String="Пожароопасность" />
+    <Translation ID="CUSTOMIZE-IT-m_fireTolerance" String="Пожароустойчивость" />
+    <Translation ID="CUSTOMIZE-IT-m_visitPlaceCount0" String="Туристов с низ. доходом" />
+    <Translation ID="CUSTOMIZE-IT-m_visitPlaceCount1" String="Туристов со сред. доходом" />
+    <Translation ID="CUSTOMIZE-IT-m_visitPlaceCount2" String="Богатых туристов" />
+    <Translation ID="CUSTOMIZE-IT-m_entertainmentAccumulation" String="Уровень развлекательности" />
+    <Translation ID="CUSTOMIZE-IT-m_entertainmentRadius" String="Радиус развлекательности" />
+    <Translation ID="CUSTOMIZE-IT-m_workPlaceCount0" String="Работников без образования" />
+    <Translation ID="CUSTOMIZE-IT-m_workPlaceCount1" String="Работников с нач. образованием" />
+    <Translation ID="CUSTOMIZE-IT-m_workPlaceCount2" String="Работников со сред. образованием" />
+    <Translation ID="CUSTOMIZE-IT-m_workPlaceCount3" String="Работников с высш. образованием" />
+    <Translation ID="CUSTOMIZE-IT-m_noiseAccumulation" String="Шумность" />
+    <Translation ID="CUSTOMIZE-IT-m_noiseRadius" String="Радиус шума" />
+    <Translation ID="CUSTOMIZE-IT-m_cargoTransportAccumulation" String="Потребность в грузовых перевозках" />
+    <Translation ID="CUSTOMIZE-IT-m_cargoTransportRadius" String="Радиус грузовых перевозок" />
+    <Translation ID="CUSTOMIZE-IT-m_hearseCount" String="Количество катафалков" />
+    <Translation ID="CUSTOMIZE-IT-m_corpseCapacity" String="Вместимость" />
+    <Translation ID="CUSTOMIZE-IT-m_burialRate" String="Норма захоронений" />
+    <Translation ID="CUSTOMIZE-IT-m_graveCount" String="Количество могил" />
+    <Translation ID="CUSTOMIZE-IT-m_deathCareAccumulation" String="Ритуальные услуги" />
+    <Translation ID="CUSTOMIZE-IT-m_deathCareRadius" String="Радиус ритуальных услуг" />
+    <Translation ID="CUSTOMIZE-IT-m_helicopterCount" String="Количество вертолётов" />
+    <Translation ID="CUSTOMIZE-IT-m_vehicleCount" String="Количество транспортных средств" />
+    <Translation ID="CUSTOMIZE-IT-m_detectionRange" String="Диапазон обнаружения" />
+    <Translation ID="CUSTOMIZE-IT-m_fireDepartmentAccumulation" String="Охват пожарной безопасности" />
+    <Translation ID="CUSTOMIZE-IT-m_fireDepartmentRadius" String="Радиус пожарного депо" />
+    <Translation ID="CUSTOMIZE-IT-m_fireTruckCount" String="Количество пожарных машин" />
+    <Translation ID="CUSTOMIZE-IT-m_firewatchRadius" String="Обзор пожарной вышки" />
+    <Translation ID="CUSTOMIZE-IT-m_educationAccumulation" String="Образованность" />
+    <Translation ID="CUSTOMIZE-IT-m_educationRadius" String="Радиус образованности" />
+    <Translation ID="CUSTOMIZE-IT-m_studentCount" String="Количество учеников" />
+    <Translation ID="CUSTOMIZE-IT-m_resourceCapacity" String="Объём ресурса" />
+    <Translation ID="CUSTOMIZE-IT-m_resourceConsumption" String="Потребление ресурсов" />
+    <Translation ID="CUSTOMIZE-IT-m_heatingProduction" String="Отопительное производство" />
+    <Translation ID="CUSTOMIZE-IT-m_pollutionAccumulation" String="Загрязнение" />
+    <Translation ID="CUSTOMIZE-IT-m_pollutionRadius" String="Радиус загрязнения" />
+    <Translation ID="CUSTOMIZE-IT-m_ambulanceCount" String="Количество машин скорой помощи" />
+    <Translation ID="CUSTOMIZE-IT-m_patientCapacity" String="Количество пациентов" />
+    <Translation ID="CUSTOMIZE-IT-m_curingRate" String="Скорость лечения" />
+    <Translation ID="CUSTOMIZE-IT-m_healthCareAccumulation" String="Уровень здравоохранения" />
+    <Translation ID="CUSTOMIZE-IT-m_healthCareRadius" String="Радиус здравоохранения" />
+    <Translation ID="CUSTOMIZE-IT-m_animalCount" String="Количество птиц(чаек)" />
+    <Translation ID="CUSTOMIZE-IT-m_collectRadius" String="Радиус сбора мусора" />
+    <Translation ID="CUSTOMIZE-IT-m_electricityProduction" String="Производство электроэнергии" />
+    <Translation ID="CUSTOMIZE-IT-m_garbageCapacity" String="Объём мусора" />
+    <Translation ID="CUSTOMIZE-IT-m_garbageConsumption" String="Переработка мусора" />
+    <Translation ID="CUSTOMIZE-IT-m_garbageTruckCount" String="Количество мусоровозов" />
+    <Translation ID="CUSTOMIZE-IT-m_materialProduction" String="Производство материалов" />
+    <Translation ID="CUSTOMIZE-IT-m_maintenanceRadius" String="Радиус обслуживания" />
+    <Translation ID="CUSTOMIZE-IT-m_maintenanceTruckCount" String="Количество обсл. транспорта" />
+    <Translation ID="CUSTOMIZE-IT-m_monumentLevel" String="Уровень памятника" />
+    <Translation ID="CUSTOMIZE-IT-m_attractivenessAccumulation" String="Привлекательность" />
+    <Translation ID="CUSTOMIZE-IT-m_animalArea" String="Ареал птиц(чаек)" />
+    <Translation ID="CUSTOMIZE-IT-m_landValueAccumulation" String="Увеличение стоимости земли" />
+    <Translation ID="CUSTOMIZE-IT-m_jailCapacity" String="Количество заключённых" />
+    <Translation ID="CUSTOMIZE-IT-m_policeCarCount" String="Количество полицейских автомобилей" />
+    <Translation ID="CUSTOMIZE-IT-m_policeDepartmentAccumulation" String="Правопорядок" />
+    <Translation ID="CUSTOMIZE-IT-m_policeDepartmentRadius" String="Радиус правопорядка" />
+    <Translation ID="CUSTOMIZE-IT-m_sentenceWeeks" String="Срок заключения в неделях" />
+    <Translation ID="CUSTOMIZE-IT-m_batteryFactor" String="Выходная мощность аккумулятора ночью" />
+    <Translation ID="CUSTOMIZE-IT-m_transmitterPower" String="Сила сигнала" />
+    <Translation ID="CUSTOMIZE-IT-m_capacity" String="Вместимость" />
+    <Translation ID="CUSTOMIZE-IT-m_disasterCoverageAccumulation" String="Зона катастрофы" />
+    <Translation ID="CUSTOMIZE-IT-m_electricityStockpileAmount" String="Размер резерва электроэнергии" />
+    <Translation ID="CUSTOMIZE-IT-m_electricityStockpileRate" String="Скорость накопления электроэнергии" />
+    <Translation ID="CUSTOMIZE-IT-m_evacuationBusCount" String="Количество эвакуационных автобусов" />
+    <Translation ID="CUSTOMIZE-IT-m_evacuationRange" String="Диапазон эвакуации" />
+    <Translation ID="CUSTOMIZE-IT-m_goodsConsumptionRate" String="Потребление товаров и ресурсов" />
+    <Translation ID="CUSTOMIZE-IT-m_goodsStockpileAmount" String="Размер запаса товаров" />
+    <Translation ID="CUSTOMIZE-IT-m_waterStockpileAmount" String="Объём запаса воды" />
+    <Translation ID="CUSTOMIZE-IT-m_waterStockpileRate" String="Скорость запаса воды" />
+    <Translation ID="CUSTOMIZE-IT-m_snowCapacity" String="Объём снега" />
+    <Translation ID="CUSTOMIZE-IT-m_snowConsumption" String="Скорость плавления снега" />
+    <Translation ID="CUSTOMIZE-IT-m_snowTruckCount" String="Количество снегоуборочных машин" />
+    <Translation ID="CUSTOMIZE-IT-m_publicTransportAccumulation" String="Количество общественного транспорта" />
+    <Translation ID="CUSTOMIZE-IT-m_publicTransportRadius" String="Радиус общественного транспорта" />
+    <Translation ID="CUSTOMIZE-IT-m_residentCapacity" String="Количество жильцов" />
+    <Translation ID="CUSTOMIZE-IT-m_touristFactor0" String="Туристический фактор 1" />
+    <Translation ID="CUSTOMIZE-IT-m_touristFactor1" String="Туристический фактор 2" />
+    <Translation ID="CUSTOMIZE-IT-m_touristFactor2" String="Туристический фактор 3" />
+    <Translation ID="CUSTOMIZE-IT-m_maxVehicleCount" String="Макс. кол-во транспортных средств" />
+    <Translation ID="CUSTOMIZE-IT-m_maxVehicleCount2" String="Макс. кол-во транспортных средств 2" />
+    <Translation ID="CUSTOMIZE-IT-m_cleaningRate" String="Скорость очистки" />
+    <Translation ID="CUSTOMIZE-IT-m_maxWaterDistance" String="Максимальное расстояние от воды" />
+    <Translation ID="CUSTOMIZE-IT-m_outletPollution" String="Объём сброса загрязнённой воды" />
+    <Translation ID="CUSTOMIZE-IT-m_pumpingVehicles" String="Водооткачивающий транспорт" />
+    <Translation ID="CUSTOMIZE-IT-m_sewageOutlet" String="Канализационный выход" />
+    <Translation ID="CUSTOMIZE-IT-m_sewageStorage" String="Отстой сточных вод" />
+    <Translation ID="CUSTOMIZE-IT-m_useGroundWater" String="Использование грунтовых вод" />
+    <Translation ID="CUSTOMIZE-IT-m_vehicleRadius" String="Радиус действия" />
+    <Translation ID="CUSTOMIZE-IT-m_waterIntake" String="Водозабор" />
+    <Translation ID="CUSTOMIZE-IT-m_waterOutlet" String="Водосброс" />
+    <Translation ID="CUSTOMIZE-IT-m_waterStorage" String="Хранение воды" />
+    <Translation ID="CUSTOMIZE-IT-RESET" String="Сброс" />
+    <Translation ID="CUSTOMIZE-IT-RESET-ALL" String="Сбросить всё" />
+    <Translation ID="CUSTOMIZE-IT-OPTION-MAINMENU-TOOLTIP" String="Этот параметр доступен только в главном меню!" />
+    <Translation ID="CUSTOMIZE-IT-OPTION-INGAME-TOOLTIP" String="Этот параметр доступен только в игре!" />
+    <Translation ID="CUSTOMIZE-IT-CHECKBOX" String="Сохранить изменения только для загруженного города" />
+  </Translations>
+</Language>
